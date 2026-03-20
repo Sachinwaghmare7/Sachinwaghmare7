@@ -24,3 +24,14 @@
 <h2>🛠️ Tech Stack</h2>
 
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,vscode,eclipse" />
+
+<h2>🧩 Frameworks & Libraries</h2>
+<list>
+  <ul>
+⚙️ Spring Boot
+🔌 Spring MVC (REST APIs)
+🗄️ Hibernate (JPA)
+📊 Java Collections Framework
+📈 Streams API
+  </ul>
+</list>
