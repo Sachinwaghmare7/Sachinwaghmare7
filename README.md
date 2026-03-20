@@ -42,4 +42,21 @@
   <ul>🔐 Backend systems with Django<br> 🌐 RESTful APIs<br> 🗄️ Database-driven applications<br> 📊 Data processing scripts<br> 🧪 Small automation tools convert java devloper
   </ul>
 </list>
+<hr>
+<h2>tools
+🌐 Connect With Me
+</h2>
+  <p align="center">
+  <a href="https://www.linkedin.com/in/sachin-waghmare-b55b92369/#:~:text=www.linkedin.com/in/sachin%2Dwaghmare%2Db55b92369">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="https://github.com/Sachinwaghmare7">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+  
+  <a href="mailto:your-email@gmail.com" title="sachinwaghmare7304@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
