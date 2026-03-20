@@ -28,10 +28,10 @@
 <h2>🧩 Frameworks & Libraries</h2>
 <list>
   <ul>
-⚙️ Spring Boot
-🔌 Spring MVC (REST APIs)
-🗄️ Hibernate (JPA)
-📊 Java Collections Framework
-📈 Streams API
+⚙️ Spring Boot<br>
+🔌 Spring MVC (REST APIs)<br>
+🗄️ Hibernate (JPA)<br>
+📊 Java Collections Framework<br>
+📈 Streams API<br>
   </ul>
 </list>
