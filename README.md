@@ -72,6 +72,11 @@
   <li>  ✏️ Update student information</li>
    <li> ❌ Delete student records</li>
    <li> 🔄 Full CRUD functionality using JDBC</li>
+    <p>📂 Repository:</p>
+<a href="https://github.com/Sachinwaghmare7/StudentRecords" target="_blank">
+https://github.com/Sachinwaghmare7/StudentRecords
+  
+</a>
   </ul>
 
 
