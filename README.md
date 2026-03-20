@@ -1,37 +1,32 @@
-<h1 align="center">Hi there 👋, I'm Sachin </h1>
+public class DeveloperProfile {
 
-<h3 align="center">
-🐍 Java & SpringBoot Developer | Backend Java Devloper
-</h3>
+    public static void main(String[] args) {
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=44C2FD&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs;MySQL+%7C+JDBC+%7C+JSP;Backend+Architecture+%26+API+Development;Always+Learning+%26+Building" />
-</p>
-<hr>
-<h2>👩‍💻 About Me</h2><br>
-<list>
-  <ul>
-🌐 Experience with HTML, CSS & JavaScript<br>
-🗄️ Working with MySQL databases<br>
-🔌 Building REST APIs using Spring Boot (Basic)<br>
-📊 Data handling using Java Collections & Streams API<br>
-🌱 Currently improving backend architecture & APIs<br>
-⚡ Fun fact: I enjoy solving backend problems 😄<br>
-    </ul>
+        System.out.println("=====================================");
+        System.out.println("Hi there 👋, I'm Sachin");
+        System.out.println("Java & Spring Boot Developer | Backend Java Developer");
+        System.out.println("=====================================\n");
 
-</list>
-<hr>
-<h2>🛠️ Tech Stack</h2>
+        System.out.println("🚀 About Me:");
+        System.out.println("🌐 Experience with HTML, CSS & JavaScript");
+        System.out.println("🗄️ Working with MySQL databases");
+        System.out.println("🔌 Building REST APIs using Spring Boot (Basic)");
+        System.out.println("📊 Data handling using Java Collections & Streams API");
+        System.out.println("🌱 Improving backend architecture & APIs");
+        System.out.println("⚡ Fun fact: I enjoy solving backend problems 😄\n");
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,vscode,eclipse" />
+        System.out.println("🛠️ Tech Stack:");
+        System.out.println("☕ Java | 🌱 Spring Boot | 🗄️ MySQL");
+        System.out.println("🌐 HTML | CSS | JavaScript");
+        System.out.println("🔧 Git | GitHub | 💻 VS Code | 🟣 Eclipse\n");
 
-<h2>🧩 Frameworks & Libraries</h2>
-<list>
-  <ul>
-⚙️ Spring Boot<br>
-🔌 Spring MVC (REST APIs)<br>
-🗄️ Hibernate (JPA)<br>
-📊 Java Collections Framework<br>
-📈 Streams API<br>
-  </ul>
-</list>
+        System.out.println("🧩 Frameworks & Libraries:");
+        System.out.println("⚙️ Spring Boot");
+        System.out.println("🔌 Spring MVC (REST APIs)");
+        System.out.println("🗄️ Hibernate (JPA)");
+        System.out.println("📊 Java Collections Framework");
+        System.out.println("📈 Streams API");
+
+        System.out.println("\n=====================================");
+    }
+}
