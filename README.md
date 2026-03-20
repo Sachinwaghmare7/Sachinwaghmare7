@@ -59,4 +59,29 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
+<hr>
+<h2>🚀 Project Showcase</h2>
+<list>
+  <ul>
+    ☕ Core Java<br>
+
+🔌 JDBC (Java Database Connectivity)<br>
+
+🗄️ MySQL<br>
+
+💻 Eclipse IDE<br>
+  </ul>
+  <h2>🚀 Features</h2>
+  <ul>
+    ➕ Add new student records<br>
+
+📋 View existing student details<br>
+
+✏️ Update student information<br>
+
+❌ Delete student records<br>
+
+🔄 Full CRUD functionality using JDBC<br>
+  </ul>
+</list>
 
