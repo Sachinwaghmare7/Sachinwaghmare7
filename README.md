@@ -1,12 +1,12 @@
 <html>
   <head>
-    ody {
+    body {
         width: 21cm;
         height: 29.7cm;
         margin: 30mm 45mm 30mm 45mm; /* Adjust margins as needed */
     }
-}
     <title>
+      
     </title>
     <body>
   <h1 align="center">Hi there 👋, I'm Sachin </h1>
