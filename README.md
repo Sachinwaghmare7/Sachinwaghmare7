@@ -35,3 +35,9 @@
 📈 Streams API<br>
   </ul>
 </list>
+<hr>
+<h2>📂 What I Build</h2>
+<list>
+  <ul>🔐 Backend systems with Django<br> 🌐 RESTful APIs<br> 🗄️ Database-driven applications<br> 📊 Data processing scripts<br> 🧪 Small automation tools convert java devloper
+  </ul>
+</list>
