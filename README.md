@@ -65,7 +65,7 @@
    <li>💻 Eclipse IDE</li> 
   </ul>
 
-  <h2>🚀 Features</h2>
+  <b>🚀 FEATURES: </b>
   <ul>
    <li> ➕ Add new student records</li>
    <li>  📋 View existing student details</li>
