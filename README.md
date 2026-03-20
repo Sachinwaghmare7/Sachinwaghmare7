@@ -20,3 +20,7 @@
     </ul>
 
 </list>
+<hr>
+<h2>🛠️ Tech Stack</h2>
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,vscode,eclipse" />
