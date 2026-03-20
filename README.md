@@ -1,14 +1,4 @@
-<html>
-  <head>
-    body {
-        width: 21cm;
-        height: 29.7cm;
-        margin: 30mm 45mm 30mm 45mm; /* Adjust margins as needed */
-    }
-    <title>
-      
-    </title>
-    <body>
+
   <h1 align="center">Hi there 👋, I'm Sachin </h1>
 
 <h3 align="center">
@@ -52,6 +42,4 @@
   <ul>🔐 Backend systems with Django<br> 🌐 RESTful APIs<br> 🗄️ Database-driven applications<br> 📊 Data processing scripts<br> 🧪 Small automation tools convert java devloper
   </ul>
 </list>
-</body>
-</head>
-</html>
+
