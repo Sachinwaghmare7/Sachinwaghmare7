@@ -68,14 +68,12 @@
   <h2>🚀 Features</h2>
   <ul>
    <li> ➕ Add new student records</li>
- <li>   📋 View existing student details</li>
+   <li>  📋 View existing student details</li>
   <li>  ✏️ Update student information</li>
    <li> ❌ Delete student records</li>
-   <li> 🔄 Full CRUD functionality using JDBC</li>
-    <p>📂 Repository:</p>
-<a href="https://github.com/Sachinwaghmare7/StudentRecords" target="_blank">
-https://github.com/Sachinwaghmare7/StudentRecords
+   <li> 🔄 Full CRUD functionality using JDBC</li><br>
   
+📂 Repository: <a href="https://github.com/Sachinwaghmare7/StudentRecords" target="_blank">https://github.com/Sachinwaghmare7/StudentRecords
 </a>
   </ul>
 
