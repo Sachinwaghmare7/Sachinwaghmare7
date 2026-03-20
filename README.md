@@ -10,38 +10,34 @@
 </p>
 <hr>
 <h2>👩‍💻 About Me</h2><br>
-<list>
-  <ul>
-🌐 Experience with HTML, CSS & JavaScript<br>
-🗄️ Working with MySQL databases<br>
-🔌 Building REST APIs using Spring Boot (Basic)<br>
-📊 Data handling using Java Collections & Streams API<br>
-🌱 Currently improving backend architecture & APIs<br>
-⚡ Fun fact: I enjoy solving backend problems 😄<br>
-    </ul>
+<ul>
+  <li>🌐 Experience with HTML, CSS & JavaScript</li>
+  <li>🗄️ Working with MySQL databases</li>
+  <li>🔌 Building REST APIs using Spring Boot (Basic)</li>
+  <li>📊 Data handling using Java Collections & Streams API</li>
+  <li>🌱 Currently improving backend architecture & APIs</li>
+  <li>⚡ Fun fact: I enjoy solving backend problems 😄</li>
+</ul>
 
-</list>
 <hr>
 <h2>🛠️ Tech Stack</h2>
 
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,vscode,eclipse" />
 
 <h2>🧩 Frameworks & Libraries</h2>
-<list>
-  <ul>
-⚙️ Spring Boot<br>
-🔌 Spring MVC (REST APIs)<br>
-🗄️ Hibernate (JPA)<br>
-📊 Java Collections Framework<br>
-📈 Streams API<br>
-  </ul>
-</list>
+<ul>
+  <li>⚙️ Spring Boot</li>
+  <li>🔌 Spring MVC (REST APIs)</li>
+  <li>🗄️ Hibernate (JPA)</li>
+  <li>📊 Java Collections Framework</li>
+  <li>📈 Streams API</li>
+</ul>
 <hr>
 <h2>📂 What I Build</h2>
-<list>
-  <ul>🔐 Backend systems with Django<br> 🌐 RESTful APIs<br> 🗄️ Database-driven applications<br> 📊 Data processing scripts<br> 🧪 Small automation tools convert java devloper
+
+  <ul><li>🔐 Backend systems with Django</li> <li>🌐 RESTful APIs</li> <li>🗄️ Database-driven applications</li> <li>📊 Data processing scripts</li> <li>🧪 Small automation tools convert java devloper</li>
   </ul>
-</list>
+
 <hr>
 <h2>tools
 🌐 Connect With Me
@@ -60,28 +56,22 @@
   </a>
 </p>
 <hr>
-<h2>🚀 Project Showcase</h2>
-<list>
+<h2>🚀 Project Showcase  (Student Management System)</h2>
+
   <ul>
-    ☕ Core Java<br>
-
-🔌 JDBC (Java Database Connectivity)<br>
-
-🗄️ MySQL<br>
-
-💻 Eclipse IDE<br>
+    <li>☕ Core Java</li>
+  <li>🔌 JDBC (Java Database Connectivity)</li>
+    <li>🗄️ MySQL</li>
+   <li>💻 Eclipse IDE</li> 
   </ul>
+
   <h2>🚀 Features</h2>
   <ul>
-    ➕ Add new student records<br>
-
-📋 View existing student details<br>
-
-✏️ Update student information<br>
-
-❌ Delete student records<br>
-
-🔄 Full CRUD functionality using JDBC<br>
+   <li> ➕ Add new student records</li>
+ <li>   📋 View existing student details</li>
+  <li>  ✏️ Update student information</li>
+   <li> ❌ Delete student records</li>
+   <li> 🔄 Full CRUD functionality using JDBC</li>
   </ul>
-</list>
+
 
