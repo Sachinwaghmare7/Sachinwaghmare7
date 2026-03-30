@@ -11,7 +11,7 @@
 <hr>
 <h2>👩‍💻 About Me</h2><br>
 <ul>
-  <li>🌐 Experience with HTML, CSS & JavaScript</li>
+  <li>🌐 Experience with Java,HTML, CSS & JavaScript</li>
   <li>🗄️ Working with MySQL databases</li>
   <li>🔌 Building REST APIs using Spring Boot (Basic)</li>
   <li>📊 Data handling using Java Collections & Streams API</li>
