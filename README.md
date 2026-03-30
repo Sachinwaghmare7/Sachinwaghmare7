@@ -86,12 +86,12 @@
      <li>🎨 CSS3</li>
    </ul>
    <b>🚀 FEATURES:</b>
-   <u>
+   <ul>
      <li>🧮 Performs addition, subtraction, multiplication, and division.
     <li>📝 Accepts input through a clean, user-friendly HTML form.</li>
     <li>⚡ Processes calculations on the server side using Java Servlets for instant results.</li>
     <li>🚫 Implements validation and error handling, including prevention of division by zero.</li>
-   </u>
+   </ul>
    
  
 
