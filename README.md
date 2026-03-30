@@ -75,7 +75,16 @@
   
 📂 Repository: <a href="https://github.com/Sachinwaghmare7/StudentRecords" target="_blank">https://github.com/Sachinwaghmare7/StudentRecords
 </a>
- </ul>
+ </ul
+   <hr>
+   <h2>Project: Web-Based Calculator Application</h2>
+   <ul>
+     <li>☕ Java</li>
+     <li>🌐 Servlet</li>
+     <li>📄 JSP </li>
+     <li>🧾 HTML5</li>
+     <li>🎨 CSS3</li>
+   </ul>
  
 
 
