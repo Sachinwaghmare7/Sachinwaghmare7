@@ -75,7 +75,7 @@
   
 📂 Repository: <a href="https://github.com/Sachinwaghmare7/StudentRecords" target="_blank">https://github.com/Sachinwaghmare7/StudentRecords
 </a>
- </ul
+ </ul>
    <hr>
    <h2>Project: Web-Based Calculator Application</h2>
    <ul>
@@ -85,6 +85,14 @@
      <li>🧾 HTML5</li>
      <li>🎨 CSS3</li>
    </ul>
+   <b>🚀 FEATURES:</b>
+   <u>
+     <li>🧮 Performs addition, subtraction, multiplication, and division.
+    <li>📝 Accepts input through a clean, user-friendly HTML form.</li>
+    <li>⚡ Processes calculations on the server side using Java Servlets for instant results.</li>
+    <li>🚫 Implements validation and error handling, including prevention of division by zero.</li>
+   </u>
+   
  
 
 
