@@ -2,18 +2,17 @@
   <h1 align="center">Hi there 👋, I'm Sachin </h1>
 
 <h3 align="center">
-🐍 Java & SpringBoot Developer | Backend Java Devloper
+🐍 Full Stack Developer 
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=44C2FD&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs;MySQL+%7C+JDBC+%7C+JSP;Backend+Architecture+%26+API+Development;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=44C2FD&center=true&vCenter=true&width=650&lines=;Spring+Boot+%7C+REST+APIs;MySQL+%7C+JDBC+%7C+JSP;Backend+Architecture+%26+API+Development;Always+Learning+%26+Building" />
 </p>
 <hr>
 <h2>👩‍💻 About Me</h2><br>
 <ul>
-  <li>🌐 Experience with Java, HTML, CSS & JavaScript</li>
+  <li>🌐 Experience with Java, HTML, CSS & JavaScript, React.js, Bootstrap, Tailwind CSS, : Node.js, Express.js</li>
   <li>🗄️ Working with MySQL databases</li>
-  <li>🔌 Building REST APIs using Spring Boot (Basic)</li>
   <li>📊 Data handling using Java Collections & Streams API</li>
   <li>🌱 Currently improving backend architecture & APIs</li>
   <li>⚡ Fun fact: I enjoy solving backend problems 😄</li>
