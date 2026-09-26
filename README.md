@@ -28,7 +28,7 @@
 
 <h2>🛠️ Tech Stack</h2>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,mongodb,mysql,java,spring,git,github,vscode,eclipse" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,mongodb,mysql,java,git,github,vscode,eclipse" />
 
 <hr>
 
