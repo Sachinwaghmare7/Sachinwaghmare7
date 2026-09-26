@@ -1,59 +1,133 @@
-
-  <h1 align="center">Hi there 👋, I'm Sachin </h1>
+<h1 align="center">Hi there 👋, I'm Sachin</h1>
 
 <h3 align="center">
-🐍 Full Stack Developer 
+🐍 Full Stack Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=44C2FD&center=true&vCenter=true&width=650&lines=;Spring+Boot+%7C+REST+APIs;MySQL+%7C+JDBC+%7C+JSP;Backend+Architecture+%26+API+Development;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=44C2FD&center=true&vCenter=true&width=650&lines=HTML+%7C+CSS+%7C+JavaScript;React.js+%7C+Node.js+%7C+Express.js;MongoDB+%7C+MySQL+%7C+REST+APIs;Java+%7C+Spring+Boot;Always+Learning+%26+Building" />
 </p>
+
 <hr>
-<h2>👩‍💻 About Me</h2><br>
+
+<h2>👩‍💻 About Me</h2>
+<br>
+
 <ul>
-  <li>🌐 Experience with Java, HTML, CSS & JavaScript, React.js, Bootstrap, Tailwind CSS, : Node.js, Express.js</li>
-  <li>🗄️ Working with MySQL databases</li>
-  <li>📊 Data handling using Java Collections & Streams API</li>
-  <li>🌱 Currently improving backend architecture & APIs</li>
-  <li>⚡ Fun fact: I enjoy solving backend problems 😄</li>
+  <li>🌐 Learning and working with HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS</li>
+  <li>⚙️ Building backend applications using Node.js and Express.js</li>
+  <li>🗄️ Working with MySQL and MongoDB databases</li>
+  <li>☕ Developing applications using Java and Spring Boot</li>
+  <li>🔌 Learning and building RESTful APIs</li>
+  <li>📊 Understanding JavaScript DOM, Events, Promises, Async/Await and AJAX</li>
+  <li>🌱 Currently improving Full Stack Development and Backend Architecture</li>
+  <li>⚡ Fun fact: I enjoy learning new technologies and solving coding problems 😄</li>
 </ul>
 
 <hr>
+
 <h2>🛠️ Tech Stack</h2>
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,vscode,eclipse" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,mongodb,mysql,java,spring,git,github,vscode,eclipse" />
 
-<h2>🧩 Frameworks & Libraries</h2>
+<hr>
+
+<h2>🎨 Frontend</h2>
+
 <ul>
-  <li>⚙️ Spring Boot</li>
-  <li>🔌 Spring MVC (REST APIs)</li>
-  <li>🗄️ Hibernate (JPA)</li>
-  <li>📊 Java Collections Framework</li>
-  <li>📈 Streams API</li>
+  <li>🌐 HTML5</li>
+  <li>🎨 CSS3</li>
+  <li>📱 Responsive Web Design</li>
+  <li>🔲 CSS Flexbox & Grid</li>
+  <li>🧩 Bootstrap</li>
+  <li>⚡ Tailwind CSS</li>
+  <li>⚛️ React.js</li>
 </ul>
-<hr>
-<h2>📂 What I Build</h2>
 
-  <ul><li>🔐 Backend systems with Django</li> <li>🌐 RESTful APIs</li> <li>🗄️ Database-driven applications</li> <li>📊 Data processing scripts</li> <li>🧪 Small automation tools convert java devloper</li>
-  </ul>
+<h2>🟨 JavaScript</h2>
+
+<ul>
+  <li>📌 JavaScript Fundamentals</li>
+  <li>🔧 Functions, Arrays & Objects</li>
+  <li>🌳 DOM & DOM Manipulation</li>
+  <li>🖱️ Events & Event Handling</li>
+  <li>🔒 Scope & Closures</li>
+  <li>🏗️ Constructors, Prototypes & Classes</li>
+  <li>👉 this Keyword & Arrow Functions</li>
+  <li>⏳ Promises, Callbacks & Async/Await</li>
+  <li>🔄 Event Loop & Timed Events</li>
+  <li>🌐 AJAX, APIs & JSON</li>
+</ul>
+
+<h2>⚙️ Backend</h2>
+
+<ul>
+  <li>🟢 Node.js</li>
+  <li>🚀 Express.js</li>
+  <li>🧩 MVC Architecture</li>
+  <li>🔌 RESTful APIs</li>
+  <li>🛡️ Middleware</li>
+  <li>✅ API Validation & Error Handling</li>
+  <li>🔐 Authentication</li>
+</ul>
+
+<h2>🗄️ Databases</h2>
+
+<ul>
+  <li>🐬 MySQL</li>
+  <li>🍃 MongoDB</li>
+  <li>🔗 Mongoose</li>
+  <li>📊 SQL Queries & CRUD Operations</li>
+  <li>📦 MongoDB CRUD Operations</li>
+</ul>
+
+<h2>🔧 Tools & Version Control</h2>
+
+<ul>
+  <li>🐙 Git & GitHub</li>
+  <li>🌿 Git Branches</li>
+  <li>🔄 Git Workflow</li>
+  <li>💻 Terminal / Command Line</li>
+  <li>🧑‍💻 Visual Studio Code</li>
+  <li>🛠️ Eclipse</li>
+</ul>
 
 <hr>
-<h2>tools
-🌐 Connect With Me
-</h2>
-  <p align="center">
-  <a href="https://www.linkedin.com/in/sachin-waghmare-b55b92369/#:~:text=www.linkedin.com/in/sachin%2Dwaghmare%2Db55b92369">
+
+<h2>📚 Currently Learning</h2>
+
+<ul>
+  <li>⚛️ React.js Components & Styling</li>
+  <li>🟢 Node.js & Express.js</li>
+  <li>🍃 MongoDB & Mongoose</li>
+  <li>🔌 REST API Development</li>
+  <li>🔐 Authentication & Authorization</li>
+  <li>📱 Responsive Web Development</li>
+  <li>🧠 Data Structures & Algorithms</li>
+</ul>
+
+<hr>
+
+<h2>🌐 Connect With Me</h2>
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/sachin-waghmare-b55b92369/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  
+
   <a href="https://github.com/Sachinwaghmare7">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
-  
-  <a href="mailto:your-email@gmail.com" title="sachinwaghmare7304@gmail.com">
+
+  <a href="mailto:sachinwaghmare7304@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
   </a>
+
 </p>
+
+<hr>
+
 <hr>
 <h2>🚀 Project Showcase  (Student Management System)</h2>
 
