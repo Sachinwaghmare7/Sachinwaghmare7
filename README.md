@@ -120,9 +120,9 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 
-  <a href="mailto:sachinwaghmare7304@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
-  </a>
+ <a href="mailto:sachinwaghmare7304@gmail.com" title="sachinwaghmare7304@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+</a>
 
 </p>
 
